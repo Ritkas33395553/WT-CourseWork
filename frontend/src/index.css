@@ -1,4 +1,5 @@
-@import url("tailwindcss");
+/* stylelint-disable import-notation */
+@import 'tailwindcss';
 
 @layer components {
   .app-shell {
