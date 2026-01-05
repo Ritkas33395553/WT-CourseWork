@@ -36,9 +36,6 @@ export default function AppLayout() {
               <Link to="/login" className="btn-secondary">
                 Войти
               </Link>
-              <Link to="/start" className="btn-primary">
-                Начать
-              </Link>
             </div>
           )}
         </div>
